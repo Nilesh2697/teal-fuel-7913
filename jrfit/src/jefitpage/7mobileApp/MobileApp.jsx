@@ -20,7 +20,7 @@ const MobileApp = () => {
           fontFamily="DM Serif Text -400"
           fontWeight={400}
         >
-          Customize your workout plan with over 3000 free exercises in Jefit
+          Customize your workout plan with over 3000 free exercises in Jrfit
           Workout Plan Builder. And easily share with
           <Text> friends. </Text>
         </Text>

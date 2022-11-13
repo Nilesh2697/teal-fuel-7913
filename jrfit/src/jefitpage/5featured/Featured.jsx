@@ -25,7 +25,7 @@ export default function Featured() {
          variant={"solid"}
           
         >
-          JEFIT HAS BEEN FEATURED BY
+          JRFIT HAS BEEN FEATURED BY
         </Heading>
       </Box>
 

@@ -10,7 +10,7 @@ const Navbar = () => {
           <Link to="/">
             <img
               style={{ backgroundColor: "#3CB8FF", height: "95px" }}
-              src="https://www.jefit.com/wp/wp-content/uploads/2021/12/jefit_logo_website_header-3.png"
+              src="https://cdn140.picsart.com/f17ccebc-3199-4d6d-a38c-8173ca119cbf/406036108022201.png?type=webp&to=min&r=120"
               alt=""
             />
           </Link>
@@ -25,7 +25,7 @@ const Navbar = () => {
           fontSize="18px"
           color="white"
         >
-          <Link to="/">Get Jefit App</Link>
+          <Link to="/">Get Jrfit App</Link>
           <Link to="/exercise">Exercise Guide</Link>
           <Link to="/login">Login</Link>
         </Flex>

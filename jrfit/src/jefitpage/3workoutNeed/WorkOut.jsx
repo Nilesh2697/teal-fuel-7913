@@ -8,7 +8,7 @@ const WorkOut = () => {
       variant={"normal"}
         
       >
-        JEFIT COVERS ALL OF YOUR WORKOUT NEEDS
+        JRFIT COVERS ALL OF YOUR WORKOUT NEEDS
       </Heading>
       
       {/* 1st flex */}
