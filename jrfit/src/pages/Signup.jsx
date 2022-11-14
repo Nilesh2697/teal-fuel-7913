@@ -98,7 +98,7 @@ export default function Signup() {
                 <Text fontSize='lg'>Already a member? <Link to="/login">Sign in</Link></Text>
               </Box>
               <Box alignSelf="center">
-                <Text variant={"outline"}>By signing up, you agree to the JEFIT Terms of Use and Privacy Policy. We respect and protect your information and privacy.</Text>
+                <Text variant={"outline"}>By signing up, you agree to the JRFIT Terms of Use and Privacy Policy. We respect and protect your information and privacy.</Text>
               </Box>
               <br />
             
